@@ -1,0 +1,801 @@
+[0213/134956.356:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0213/135120.888:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0213/135231.943:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0213/141811.690:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/141811.691:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/141811.693:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0213/141811.693:ERROR:exception_snapshot_win.cc(87)] thread ID 14608 not found in process
+[0213/141811.693:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/141811.693:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142200.561:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142200.562:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142200.562:ERROR:process_reader_win.cc(242)] ReadMemory at 0x799697c of 12 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0213/142200.571:WARNING:process_snapshot_win.cc(71)] ReadMemory ExceptionInformation failed
+[0213/142200.571:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142200.571:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142225.047:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142225.047:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142225.050:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0213/142225.050:ERROR:exception_snapshot_win.cc(87)] thread ID 12864 not found in process
+[0213/142225.050:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142225.050:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142228.845:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142228.845:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142228.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0xd5697c of 12 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0213/142228.846:WARNING:process_snapshot_win.cc(71)] ReadMemory ExceptionInformation failed
+[0213/142228.846:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142228.846:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142231.866:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142231.866:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142231.869:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0213/142231.869:ERROR:exception_snapshot_win.cc(87)] thread ID 2084 not found in process
+[0213/142231.869:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142231.869:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0306/192758.832:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0306/194127.258:ERROR:process_reader_win.cc(151)] SuspendThread: Zugriff verweigert (0x5)
+[0306/194127.259:ERROR:process_reader_win.cc(151)] SuspendThread: Zugriff verweigert (0x5)
+[0306/194127.259:ERROR:exception_snapshot_win.cc(87)] thread ID 6352 not found in process
+[0306/194127.259:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0306/194216.806:ERROR:process_info.cc(631)] range at 0xfffde000, size 0x230 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfffdd000, size 0xf84 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfffda000, size 0xf84 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfffd7000, size 0xf84 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfffaf000, size 0xf84 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfffac000, size 0xf84 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfffa9000, size 0xf84 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfffa6000, size 0xf84 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfffa3000, size 0xf84 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfffa0000, size 0xf84 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfff9d000, size 0xf84 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfff9a000, size 0xf84 fully unreadable
+[0306/194216.816:ERROR:process_info.cc(631)] range at 0xfff97000, size 0xf84 fully unreadable
+[0306/194216.817:ERROR:process_info.cc(631)] range at 0xfff94000, size 0xf84 fully unreadable
+[0306/194216.817:ERROR:process_info.cc(631)] range at 0xfff91000, size 0xf84 fully unreadable
+[0306/194216.817:ERROR:process_info.cc(631)] range at 0xfff8e000, size 0xf84 fully unreadable
+[0306/194216.817:ERROR:process_info.cc(631)] range at 0xfff8b000, size 0xf84 fully unreadable
+[0306/194216.817:ERROR:process_info.cc(631)] range at 0xfff88000, size 0xf84 fully unreadable
+[0306/194216.883:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5cc80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.884:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\node.dll
+[0306/194216.884:ERROR:process_reader_win.cc(242)] ReadMemory at 0x773b0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.884:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CFGMGR32.dll
+[0306/194216.884:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75400000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.884:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\DEVOBJ.dll
+[0306/194216.884:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75690000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.884:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SETUPAPI.dll
+[0306/194216.884:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72320000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.884:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\powrprof.dll
+[0306/194216.884:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73b80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.884:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\mswsock.dll
+[0306/194216.885:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73b30000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.885:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wshtcpip.dll
+[0306/194216.885:ERROR:process_reader_win.cc(242)] ReadMemory at 0x722f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.885:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wship6.dll
+[0306/194216.885:ERROR:process_reader_win.cc(242)] ReadMemory at 0x3a90000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.885:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\steam_api.dll
+[0306/194216.885:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5c4f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.885:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\sdkencryptedappticket.dll
+[0306/194216.885:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5cb80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.885:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\greenworks-win32.node
+[0306/194216.885:ERROR:process_reader_win.cc(242)] ReadMemory at 0xab0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.885:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\Discord Bot Maker.exe
+[0306/194216.885:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77b10000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.885:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\SysWOW64\ntdll.dll
+[0306/194216.885:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73ec0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.885:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Program Files\AVAST Software\Avast\x86\aswhook.dll
+[0306/194216.885:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77570000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.885:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\KERNELBASE.dll
+[0306/194216.885:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76280000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.885:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\kernel32.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x60640000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\nw_elf.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x755a0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\msvcrt.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75220000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CRYPTBASE.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75230000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SspiCli.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76060000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\RPCRT4.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76200000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\SysWOW64\sechost.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77680000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\ADVAPI32.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77670000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\PSAPI.DLL
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76520000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USER32.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x773e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USP10.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76040000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\LPK.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76160000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\GDI32.dll
+[0306/194216.886:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76220000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.886:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SHLWAPI.dll
+[0306/194216.887:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76620000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SHELL32.dll
+[0306/194216.888:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73e70000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\VERSION.dll
+[0306/194216.888:ERROR:process_reader_win.cc(242)] ReadMemory at 0x732c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0306/194216.888:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72e30000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\webio.dll
+[0306/194216.888:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72e80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINHTTP.dll
+[0306/194216.888:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73b70000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+[0306/194216.888:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75f40000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\MSCTF.dll
+[0306/194216.888:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75c90000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0306/194216.888:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75290000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\ole32.dll
+[0306/194216.888:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76390000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\OLEAUT32.dll
+[0306/194216.888:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77660000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\profapi.dll
+[0306/194216.888:ERROR:process_reader_win.cc(242)] ReadMemory at 0x775c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.888:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USERENV.dll
+[0306/194216.889:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73300000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.889:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\OLEACC.dll
+[0306/194216.889:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73bd0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.889:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[0306/194216.889:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73210000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.889:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\HID.DLL
+[0306/194216.889:ERROR:process_reader_win.cc(242)] ReadMemory at 0x603c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.889:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\ffmpeg.dll
+[0306/194216.889:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73120000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.889:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dbghelp.dll
+[0306/194216.889:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73f50000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.889:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\credui.dll
+[0306/194216.889:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74780000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.889:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\netutils.dll
+[0306/194216.889:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74760000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.889:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\srvcli.dll
+[0306/194216.889:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74750000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.889:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\wkscli.dll
+[0306/194216.889:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74790000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.889:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\NETAPI32.dll
+[0306/194216.889:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74020000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.889:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\SAMCLI.DLL
+[0306/194216.890:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75830000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.890:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\MSASN1.dll
+[0306/194216.890:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77280000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.890:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CRYPT32.dll
+[0306/194216.890:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76010000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.890:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\WINTRUST.dll
+[0306/194216.890:ERROR:process_reader_win.cc(242)] ReadMemory at 0x729b0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.890:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\bcrypt.dll
+[0306/194216.890:ERROR:process_reader_win.cc(242)] ReadMemory at 0x729d0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.890:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\ncrypt.dll
+[0306/194216.890:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72a10000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.890:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\Secur32.dll
+[0306/194216.890:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72ee0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.891:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\DWrite.dll
+[0306/194216.891:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73e80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.891:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WTSAPI32.dll
+[0306/194216.891:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72c00000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.891:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d8thk.dll
+[0306/194216.891:ERROR:process_reader_win.cc(242)] ReadMemory at 0x734e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.891:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dwmapi.dll
+[0306/194216.891:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72c10000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.891:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d9.dll
+[0306/194216.891:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72de0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.891:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dxgi.dll
+[0306/194216.891:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72a60000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.891:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d11.dll
+[0306/194216.891:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72be0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.891:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dxva2.dll
+[0306/194216.892:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5d860000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.892:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\ESENT.dll
+[0306/194216.892:ERROR:process_reader_win.cc(242)] ReadMemory at 0x60370000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.892:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\wevtapi.dll
+[0306/194216.892:ERROR:process_reader_win.cc(242)] ReadMemory at 0xf3d0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.892:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\nw.dll
+[0306/194216.892:ERROR:process_reader_win.cc(242)] ReadMemory at 0x764c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.892:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\NSI.dll
+[0306/194216.892:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75650000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.892:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\WS2_32.dll
+[0306/194216.892:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73230000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.892:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINNSI.DLL
+[0306/194216.892:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73240000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.892:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\IPHLPAPI.DLL
+[0306/194216.892:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5cc80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.892:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\node.dll
+[0306/194216.892:ERROR:process_reader_win.cc(242)] ReadMemory at 0x773b0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.892:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CFGMGR32.dll
+[0306/194216.893:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75400000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.893:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\DEVOBJ.dll
+[0306/194216.893:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75690000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.893:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SETUPAPI.dll
+[0306/194216.893:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72320000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.893:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\powrprof.dll
+[0306/194216.893:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73b80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.893:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\mswsock.dll
+[0306/194216.893:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73b30000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.893:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wshtcpip.dll
+[0306/194216.893:ERROR:process_reader_win.cc(242)] ReadMemory at 0x722f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.893:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wship6.dll
+[0306/194216.893:ERROR:process_reader_win.cc(242)] ReadMemory at 0x3a90000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.893:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\steam_api.dll
+[0306/194216.893:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5c4f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.893:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\sdkencryptedappticket.dll
+[0306/194216.893:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5cb80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.893:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\greenworks-win32.node
+[0306/194216.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0xab0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.904:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\Discord Bot Maker.exe
+[0306/194216.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77b10000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.904:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\SysWOW64\ntdll.dll
+[0306/194216.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73ec0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.904:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Program Files\AVAST Software\Avast\x86\aswhook.dll
+[0306/194216.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77570000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.905:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\KERNELBASE.dll
+[0306/194216.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76280000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.905:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\kernel32.dll
+[0306/194216.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x60640000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.905:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\nw_elf.dll
+[0306/194216.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x755a0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.905:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\msvcrt.dll
+[0306/194216.905:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75220000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.905:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CRYPTBASE.dll
+[0306/194216.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75230000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.906:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SspiCli.dll
+[0306/194216.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76060000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.906:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\RPCRT4.dll
+[0306/194216.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76200000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.906:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\SysWOW64\sechost.dll
+[0306/194216.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77680000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.906:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\ADVAPI32.dll
+[0306/194216.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77670000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.906:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\PSAPI.DLL
+[0306/194216.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76520000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.906:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USER32.dll
+[0306/194216.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x773e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.906:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USP10.dll
+[0306/194216.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76040000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.907:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\LPK.dll
+[0306/194216.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76160000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.907:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\GDI32.dll
+[0306/194216.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76220000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.907:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SHLWAPI.dll
+[0306/194216.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76620000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.907:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SHELL32.dll
+[0306/194216.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73e70000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.907:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\VERSION.dll
+[0306/194216.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x732c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.907:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0306/194216.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72e30000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.907:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\webio.dll
+[0306/194216.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72e80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.907:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINHTTP.dll
+[0306/194216.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73b70000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.907:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+[0306/194216.907:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75f40000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.908:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\MSCTF.dll
+[0306/194216.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75c90000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.908:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0306/194216.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75290000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.908:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\ole32.dll
+[0306/194216.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76390000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.908:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\OLEAUT32.dll
+[0306/194216.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77660000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.908:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\profapi.dll
+[0306/194216.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x775c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.908:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USERENV.dll
+[0306/194216.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73300000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.908:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\OLEACC.dll
+[0306/194216.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73bd0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.908:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[0306/194216.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73210000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.908:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\HID.DLL
+[0306/194216.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x603c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.908:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\ffmpeg.dll
+[0306/194216.908:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73120000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.909:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dbghelp.dll
+[0306/194216.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73f50000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.909:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\credui.dll
+[0306/194216.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74780000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.909:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\netutils.dll
+[0306/194216.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74760000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.909:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\srvcli.dll
+[0306/194216.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74750000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.909:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\wkscli.dll
+[0306/194216.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74790000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.909:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\NETAPI32.dll
+[0306/194216.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74020000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.909:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\SAMCLI.DLL
+[0306/194216.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75830000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.909:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\MSASN1.dll
+[0306/194216.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77280000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.909:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CRYPT32.dll
+[0306/194216.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76010000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.909:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\WINTRUST.dll
+[0306/194216.909:ERROR:process_reader_win.cc(242)] ReadMemory at 0x729b0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.909:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\bcrypt.dll
+[0306/194216.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x729d0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.910:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\ncrypt.dll
+[0306/194216.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72a10000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.910:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\Secur32.dll
+[0306/194216.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72ee0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.910:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\DWrite.dll
+[0306/194216.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73e80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.910:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WTSAPI32.dll
+[0306/194216.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72c00000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.910:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d8thk.dll
+[0306/194216.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x734e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.910:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dwmapi.dll
+[0306/194216.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72c10000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.910:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d9.dll
+[0306/194216.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72de0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.910:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dxgi.dll
+[0306/194216.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72a60000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.910:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d11.dll
+[0306/194216.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72be0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.910:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dxva2.dll
+[0306/194216.910:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5d860000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.911:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\ESENT.dll
+[0306/194216.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x60370000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.911:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\wevtapi.dll
+[0306/194216.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0xf3d0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.911:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\nw.dll
+[0306/194216.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x764c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.911:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\NSI.dll
+[0306/194216.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75650000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.911:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\WS2_32.dll
+[0306/194216.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73230000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.911:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINNSI.DLL
+[0306/194216.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73240000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.911:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\IPHLPAPI.DLL
+[0306/194216.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5cc80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.911:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\node.dll
+[0306/194216.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x773b0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.911:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CFGMGR32.dll
+[0306/194216.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75400000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.911:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\DEVOBJ.dll
+[0306/194216.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75690000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.911:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SETUPAPI.dll
+[0306/194216.911:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72320000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.912:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\powrprof.dll
+[0306/194216.912:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73b80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.912:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\mswsock.dll
+[0306/194216.912:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73b30000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.912:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wshtcpip.dll
+[0306/194216.912:ERROR:process_reader_win.cc(242)] ReadMemory at 0x722f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.912:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wship6.dll
+[0306/194216.912:ERROR:process_reader_win.cc(242)] ReadMemory at 0x3a90000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.912:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\steam_api.dll
+[0306/194216.912:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5c4f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.912:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\sdkencryptedappticket.dll
+[0306/194216.912:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5cb80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194216.912:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\greenworks-win32.node
+[0306/194217.206:ERROR:process_reader_win.cc(242)] ReadMemory at 0x34b000 of 86016 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0306/194217.206:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
+[0306/194217.207:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Es wurde versucht, auf einen Prozess zuzugreifen, der gerade beendet wurde.  (0xc000010a)
+[0306/194239.110:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/134331.735:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/135838.837:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/135945.919:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/140551.000:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/140950.947:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/141158.047:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/141349.075:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/142922.420:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/143102.504:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/143220.779:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/143255.501:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/144002.038:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/144143.401:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/144852.396:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/144921.434:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/145026.424:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/145317.723:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/145351.125:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/145459.513:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/145944.797:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/150716.287:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/154620.847:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/155555.745:ERROR:process_info.cc(631)] range at 0xfffde000, size 0x230 fully unreadable
+[0307/155555.752:ERROR:process_info.cc(631)] range at 0xfffdd000, size 0xf84 fully unreadable
+[0307/155555.752:ERROR:process_info.cc(631)] range at 0xfffda000, size 0xf84 fully unreadable
+[0307/155555.752:ERROR:process_info.cc(631)] range at 0xfffd7000, size 0xf84 fully unreadable
+[0307/155555.752:ERROR:process_info.cc(631)] range at 0xfffaf000, size 0xf84 fully unreadable
+[0307/155555.752:ERROR:process_info.cc(631)] range at 0xfffac000, size 0xf84 fully unreadable
+[0307/155555.752:ERROR:process_info.cc(631)] range at 0xfffa9000, size 0xf84 fully unreadable
+[0307/155555.752:ERROR:process_info.cc(631)] range at 0xfffa6000, size 0xf84 fully unreadable
+[0307/155555.752:ERROR:process_info.cc(631)] range at 0xfffa3000, size 0xf84 fully unreadable
+[0307/155555.753:ERROR:process_info.cc(631)] range at 0xfffa0000, size 0xf84 fully unreadable
+[0307/155555.753:ERROR:process_info.cc(631)] range at 0xfff9d000, size 0xf84 fully unreadable
+[0307/155555.753:ERROR:process_info.cc(631)] range at 0xfff9a000, size 0xf84 fully unreadable
+[0307/155555.753:ERROR:process_info.cc(631)] range at 0xfff97000, size 0xf84 fully unreadable
+[0307/155555.753:ERROR:process_info.cc(631)] range at 0xfff94000, size 0xf84 fully unreadable
+[0307/155555.753:ERROR:process_info.cc(631)] range at 0xfff91000, size 0xf84 fully unreadable
+[0307/155555.753:ERROR:process_info.cc(631)] range at 0xfff8e000, size 0xf84 fully unreadable
+[0307/155555.753:ERROR:process_info.cc(631)] range at 0xfff8b000, size 0xf84 fully unreadable
+[0307/155555.753:ERROR:process_info.cc(631)] range at 0xfff88000, size 0xf84 fully unreadable
+[0307/155555.753:ERROR:process_info.cc(631)] range at 0xfff85000, size 0xf84 fully unreadable
+[0307/155555.822:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73868138 of 92 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.823:WARNING:pe_image_reader.cc(248)] could not read version info from C:\Windows\system32\OLEACC.dll
+[0307/155555.823:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73dc0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.823:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[0307/155555.823:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73810000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.823:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\HID.DLL
+[0307/155555.823:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b590000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.823:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\ffmpeg.dll
+[0307/155555.824:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73720000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.824:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dbghelp.dll
+[0307/155555.825:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b8e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.825:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\credui.dll
+[0307/155555.825:ERROR:process_reader_win.cc(242)] ReadMemory at 0x753a0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.825:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\netutils.dll
+[0307/155555.825:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6f800000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.825:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\srvcli.dll
+[0307/155555.825:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6f7f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.825:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\wkscli.dll
+[0307/155555.825:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72ca0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.825:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\NETAPI32.dll
+[0307/155555.825:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b8d0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.825:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\SAMCLI.DLL
+[0307/155555.825:ERROR:process_reader_win.cc(242)] ReadMemory at 0x772c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.825:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\MSASN1.dll
+[0307/155555.825:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76db0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.825:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CRYPT32.dll
+[0307/155555.825:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75990000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.825:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\WINTRUST.dll
+[0307/155555.825:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72f80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.826:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\bcrypt.dll
+[0307/155555.826:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72fa0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.826:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\ncrypt.dll
+[0307/155555.826:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72fe0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.826:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\Secur32.dll
+[0307/155555.826:ERROR:process_reader_win.cc(242)] ReadMemory at 0x734e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.826:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\DWrite.dll
+[0307/155555.826:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74070000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.826:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WTSAPI32.dll
+[0307/155555.826:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73190000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.826:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d8thk.dll
+[0307/155555.826:ERROR:process_reader_win.cc(242)] ReadMemory at 0x738e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.826:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dwmapi.dll
+[0307/155555.826:ERROR:process_reader_win.cc(242)] ReadMemory at 0x731b0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.826:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d9.dll
+[0307/155555.826:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73380000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.826:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dxgi.dll
+[0307/155555.826:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72ff0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.826:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d11.dll
+[0307/155555.827:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73170000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.827:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dxva2.dll
+[0307/155555.827:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b3e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.827:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\ESENT.dll
+[0307/155555.827:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b390000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.827:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\wevtapi.dll
+[0307/155555.827:ERROR:process_reader_win.cc(242)] ReadMemory at 0x50980000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.827:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\nw.dll
+[0307/155555.827:ERROR:process_reader_win.cc(242)] ReadMemory at 0x758f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.827:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\NSI.dll
+[0307/155555.827:ERROR:process_reader_win.cc(242)] ReadMemory at 0x758b0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.827:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\WS2_32.dll
+[0307/155555.827:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73870000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.827:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINNSI.DLL
+[0307/155555.827:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73880000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.827:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\IPHLPAPI.DLL
+[0307/155555.827:ERROR:process_reader_win.cc(242)] ReadMemory at 0x500f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.827:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\node.dll
+[0307/155555.827:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77290000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.828:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CFGMGR32.dll
+[0307/155555.828:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76d80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.828:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\DEVOBJ.dll
+[0307/155555.828:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75650000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.828:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SETUPAPI.dll
+[0307/155555.828:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72a00000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.828:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\powrprof.dll
+[0307/155555.828:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73d70000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.828:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\mswsock.dll
+[0307/155555.828:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73d40000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.828:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wshtcpip.dll
+[0307/155555.828:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74ef0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.828:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wship6.dll
+[0307/155555.828:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b1f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.828:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\steam_api.dll
+[0307/155555.828:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b160000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.828:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\sdkencryptedappticket.dll
+[0307/155555.828:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b230000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.828:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\greenworks-win32.node
+[0307/155555.829:ERROR:process_reader_win.cc(242)] ReadMemory at 0x270000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.829:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\Discord Bot Maker.exe
+[0307/155555.829:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77d00000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.829:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\SysWOW64\ntdll.dll
+[0307/155555.829:ERROR:process_reader_win.cc(242)] ReadMemory at 0x745c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.829:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Program Files\AVAST Software\Avast\x86\aswhook.dll
+[0307/155555.829:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77420000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.829:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\KERNELBASE.dll
+[0307/155555.829:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75be0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.829:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\kernel32.dll
+[0307/155555.829:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b810000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.829:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\nw_elf.dll
+[0307/155555.829:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75540000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.830:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\msvcrt.dll
+[0307/155555.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75410000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.830:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CRYPTBASE.dll
+[0307/155555.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75420000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.830:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SspiCli.dll
+[0307/155555.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x772d0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.830:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\RPCRT4.dll
+[0307/155555.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x757f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.830:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\SysWOW64\sechost.dll
+[0307/155555.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75aa0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.830:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\ADVAPI32.dll
+[0307/155555.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75e00000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.830:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\PSAPI.DLL
+[0307/155555.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75d00000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.830:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USER32.dll
+[0307/155555.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76a70000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.830:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USP10.dll
+[0307/155555.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76bb0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\LPK.dll
+[0307/155555.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75810000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\GDI32.dll
+[0307/155555.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x773c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SHLWAPI.dll
+[0307/155555.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75e20000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SHELL32.dll
+[0307/155555.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74060000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\VERSION.dll
+[0307/155555.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x738a0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0307/155555.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x733d0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\webio.dll
+[0307/155555.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73420000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINHTTP.dll
+[0307/155555.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73d60000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+[0307/155555.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x759c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\MSCTF.dll
+[0307/155555.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x755f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.832:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0307/155555.832:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76c20000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.832:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\ole32.dll
+[0307/155555.832:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76b10000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.832:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\OLEAUT32.dll
+[0307/155555.832:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76bc0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.832:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\profapi.dll
+[0307/155555.832:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77030000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.832:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USERENV.dll
+[0307/155555.832:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73830000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.832:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\OLEACC.dll
+[0307/155555.833:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73dc0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.833:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[0307/155555.833:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73810000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.833:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\HID.DLL
+[0307/155555.833:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b590000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.833:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\ffmpeg.dll
+[0307/155555.833:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73720000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.833:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dbghelp.dll
+[0307/155555.833:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b8e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.833:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\credui.dll
+[0307/155555.833:ERROR:process_reader_win.cc(242)] ReadMemory at 0x753a0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.833:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\netutils.dll
+[0307/155555.833:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6f800000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.833:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\srvcli.dll
+[0307/155555.833:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6f7f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.833:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\wkscli.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72ca0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\NETAPI32.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b8d0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\SAMCLI.DLL
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x772c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\MSASN1.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76db0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CRYPT32.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75990000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\WINTRUST.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72f80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\bcrypt.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72fa0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\ncrypt.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72fe0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\Secur32.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x734e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\DWrite.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74070000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WTSAPI32.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73190000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d8thk.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x738e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dwmapi.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x731b0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d9.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73380000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dxgi.dll
+[0307/155555.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72ff0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.835:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d11.dll
+[0307/155555.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73170000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.835:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dxva2.dll
+[0307/155555.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b3e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.835:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\ESENT.dll
+[0307/155555.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b390000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.835:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\wevtapi.dll
+[0307/155555.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x50980000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.835:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\nw.dll
+[0307/155555.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x758f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.835:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\NSI.dll
+[0307/155555.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x758b0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.835:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\WS2_32.dll
+[0307/155555.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73870000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.835:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINNSI.DLL
+[0307/155555.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73880000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.835:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\IPHLPAPI.DLL
+[0307/155555.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x500f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.836:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\node.dll
+[0307/155555.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77290000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.836:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CFGMGR32.dll
+[0307/155555.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76d80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.836:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\DEVOBJ.dll
+[0307/155555.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75650000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.836:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SETUPAPI.dll
+[0307/155555.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72a00000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.836:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\powrprof.dll
+[0307/155555.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73d70000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.836:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\mswsock.dll
+[0307/155555.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73d40000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.836:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wshtcpip.dll
+[0307/155555.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74ef0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.836:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wship6.dll
+[0307/155555.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b1f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.836:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\steam_api.dll
+[0307/155555.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b160000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.836:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\sdkencryptedappticket.dll
+[0307/155555.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b230000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.836:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\greenworks-win32.node
+[0307/155555.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x270000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.845:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\Discord Bot Maker.exe
+[0307/155555.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77d00000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.845:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\SysWOW64\ntdll.dll
+[0307/155555.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x745c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.845:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Program Files\AVAST Software\Avast\x86\aswhook.dll
+[0307/155555.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77420000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.845:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\KERNELBASE.dll
+[0307/155555.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75be0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.845:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\kernel32.dll
+[0307/155555.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b810000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.845:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\nw_elf.dll
+[0307/155555.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75540000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.845:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\msvcrt.dll
+[0307/155555.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75410000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CRYPTBASE.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75420000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SspiCli.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x772d0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\RPCRT4.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x757f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\SysWOW64\sechost.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75aa0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\ADVAPI32.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75e00000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\PSAPI.DLL
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75d00000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USER32.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76a70000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USP10.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76bb0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\LPK.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75810000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\GDI32.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x773c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SHLWAPI.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75e20000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SHELL32.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74060000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\VERSION.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x738a0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x733d0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\webio.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73420000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINHTTP.dll
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73d60000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+[0307/155555.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x759c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\MSCTF.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x755f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76c20000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\ole32.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76b10000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\OLEAUT32.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76bc0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\profapi.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77030000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\USERENV.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73830000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\OLEACC.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73dc0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73810000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\HID.DLL
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b590000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\ffmpeg.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73720000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dbghelp.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b8e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\credui.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x753a0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\netutils.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6f800000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\srvcli.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6f7f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\wkscli.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72ca0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\NETAPI32.dll
+[0307/155555.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b8d0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\SAMCLI.DLL
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x772c0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\MSASN1.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76db0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CRYPT32.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75990000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\WINTRUST.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72f80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\bcrypt.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72fa0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\ncrypt.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72fe0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\Secur32.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x734e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\DWrite.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74070000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WTSAPI32.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73190000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d8thk.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x738e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dwmapi.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x731b0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d9.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73380000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dxgi.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72ff0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\d3d11.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73170000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\dxva2.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b3e0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\ESENT.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b390000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\wevtapi.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x50980000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\nw.dll
+[0307/155555.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x758f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\NSI.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x758b0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\WS2_32.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73870000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\WINNSI.DLL
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73880000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\IPHLPAPI.DLL
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x500f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Thomas\Desktop\Discord Bot Maker\node.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77290000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\CFGMGR32.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76d80000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\DEVOBJ.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75650000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\syswow64\SETUPAPI.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72a00000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\powrprof.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73d70000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\system32\mswsock.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73d40000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wshtcpip.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74ef0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Windows\System32\wship6.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b1f0000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\steam_api.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b160000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\sdkencryptedappticket.dll
+[0307/155555.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b230000 of 64 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.849:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Thomas\Desktop\Discord Bot Maker\lib\greenworks-win32.node
+[0307/155555.863:ERROR:process_reader_win.cc(242)] ReadMemory at 0x57b000 of 86016 bytes failed: Nur ein Teil der ReadProcessMemory- oder WriteProcessMemory-Anforderung wurde abgeschlossen. (0x12B)
+[0307/155555.863:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
+[0307/155555.864:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Es wurde versucht, auf einen Prozess zuzugreifen, der gerade beendet wurde.  (0xc000010a)
+[0307/155637.903:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/160951.002:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0307/162932.616:ERROR:process_reader_win.cc(151)] SuspendThread: Zugriff verweigert (0x5)
+[0307/162932.617:ERROR:exception_snapshot_win.cc(87)] thread ID 7844 not found in process
+[0307/162932.617:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
